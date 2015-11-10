@@ -1,7 +1,7 @@
 MDM-APNS-JAVA
 =============
 
-its a extended version of notnoop JAVA APNS to support MDM functionality 
+its a extended version of notnoop JAVA APNS to support MDM functionality.
 
 
 //Initialing with certificate location and password
